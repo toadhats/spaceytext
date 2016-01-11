@@ -12,3 +12,4 @@ appears with the other services so you can use it anywhere
 
 ![screenshot](https://raw.githubusercontent.com/toadhats/spaceytext/master/Screen%20Shot%202016-01-11%20at%209.11.58%20PM.png)
 
+Written in Swift.
